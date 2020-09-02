@@ -26,22 +26,18 @@ Tools: NLTK, scikit
 * ### Data Analysis and Visualisation
   * #### Python  
      * [Titanic Dataset - Exploratory Analysis](https://www.google.com): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.  
-Stock Market Analysis for Tech Stocks: Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
-2016 US General Election Poll Data Analysis: Very simple analysis of 2016 US General Election Poll data.
-911 Calls - Exploratory Analysis: Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.   
-Titanic Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
-Stock Market Analysis for Tech Stocks: Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
-2016 US General Election Poll Data Analysis: Very simple analysis of 2016 US General Election Poll data.
-911 Calls - Exploratory Analysis: Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
-Tools: Pandas, Folium, Seaborn and Matplotlib
+     * [Stock Market Analysis for Tech Stocks](https://www.google.com): Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
+     * [2016 US General Election Poll Data Analysis](https://www.google.com): Very simple analysis of 2016 US General Election Poll data.
+     * [911 Calls - Exploratory Analysis](https://www.google.com): Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.   
+     * [Titanic Dataset - Exploratory Analysis](https://www.google.com): Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 
-# Micro Projects:
-## Python
+* ### Micro Projects:
+  * #### Python
 
-ML with Logistic Regression: Using Logistic Regression to predict whether an internet user clicked an ad or not.
-ML with K Nearest Neighbours: Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
-ML with Decision Trees and Random Forests: Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
-Movie Recommendations using Recommender Systems: A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
+    * [ML with Logistic Regression](https://www.google.com): Using Logistic Regression to predict whether an internet user clicked an ad or not.
+    * [ML with K Nearest Neighbours](https://www.google.com): Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
+    * [ML with Decision Trees and Random Forests](https://www.google.com): Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
+    * [Movie Recommendations using Recommender Systems](https://www.google.com): A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
 
 
 
