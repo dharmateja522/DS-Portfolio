@@ -23,8 +23,8 @@ Cross language Information Retrieval: Cross language information retrieval syste
 
 Tools: NLTK, scikit
 
-+ ### Data Analysis and Visualisation
-        - Python
+* ### Data Analysis and Visualisation
+        * ##### Python
 Scalable Walkability Analysis of Melbourne: Analysis of walkability of suburbs in Melbourne, Victoria and its implications.
 Titanic Dataset - Exploratory Analysis: Exploratory Analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualisations.
 Stock Market Analysis for Tech Stocks: Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction.
