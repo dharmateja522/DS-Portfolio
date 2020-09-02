@@ -8,7 +8,7 @@ For a more visually pleasant experience for browsing the portfolio, check out
 
 
 # Contents
-+ Machine Learning
++ ## Machine Learning  
 Predicting Boston Housing Prices: A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
 Supervised Learning: Finding Donors for CharityML: Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
 Unsupervised Learning: Creating Customer Segments: Analyzing a dataset containing data on various customers' annual spending amounts (reported in monetary units) of diverse product categories for discovering internal structure, patterns and knowledge.
