@@ -34,7 +34,7 @@ Repository containing portfolio of data science projects completed by me for sel
 - ### Data Analysis and Visualisation
 	- __Python__
 		- [Diabetes Dataset - EDA](https://github.com/dharmateja522/DS-Portfolio/blob/master/Diabetes/Diabtes%20F.ipynb): Analysing whether a person is a diabetic (or) not a diabetic.
-		- [HR Prediction on Salary - Exploratory Analysis](https://github.com/dharmateja522/DS-Portfolio/blob/master/HR%20Prediction/hr-analysis-prediction-and-visualisation.ipynb): Exploratory Analysis of the employes, looking for employee salary greater than 50,000/year.
+		- [HR Prediction on Salary - Exploratory Analysis](https://github.com/dharmateja522/DS-Portfolio/blob/master/HR%20Prediction/hr-analysis-prediction-and-visualisation.ipynb): Exploratory Analysis of the employees, and looking into various parameters that resulted in a Attriation over it's employees.
 		- [Flight Price](https://github.com/dharmateja522/DS-Portfolio/blob/master/Flight%20Price/Flight%20Price%20Prediction.ipynb): Analysis of Flights flying behaviour, including change in price over time and the  prediction of Prices.
 		
 	_Tools: Pandas, Seaborn and Matplotlib_
