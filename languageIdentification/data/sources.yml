@@ -1,0 +1,37 @@
+english:
+  users:
+    - CNN
+    - bbcnews
+    - VOAvideo
+  playlists:
+    -
+german:
+  users:
+    - deutschewelle
+    - euronewsde
+    - N24de
+  playlists:
+    -
+french:
+  users:
+    - france24
+  playlists:
+    -
+spanish:
+  users:
+    - antena3noticias
+    - rtve
+  playlists:
+    -
+chinese:
+  users:
+    - VOAchina
+  playlists:
+    -
+russian:
+  users:
+    - Russia24TV
+    - rtrussian
+  playlists:
+    -
+

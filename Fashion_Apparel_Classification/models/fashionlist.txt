@@ -1,0 +1,10 @@
+Goggles
+Hat
+Jacket
+Shirt
+Shoes
+Shorts
+Trouser
+T-Shirt
+Wallet
+Watch
