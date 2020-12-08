@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Repository containing portfolio of data science projects completed by me for self learning, and hobby purposes. Presented in the form of End to End Projects.
+Repository containing portfolio of data science projects completed by me for self learning, and hobby purposes. Presented in the form of End to End Projects using Pycharm and few of them were implemented using Jupyter Notebook.
 
 <!-- For a more visually pleasant experience for browsing the portfolio, check out -->
 
