@@ -8,7 +8,7 @@ Repository containing portfolio of data science projects completed by me for sel
 - ### Machine Learning
 
 	- [Wafer Fault Detection](https://github.com/dharmateja522/DS-Portfolio/tree/master/WaferFaultDetection): A Model to build a classification methodology to predict the quality of wafer sensors based on the given training data.
-	- [Fraud Insurance Claim Detection](https://github.com/dharmateja522/DS-Portfolio/tree/master/sentiment_analysis): A simple model to determine whether given sentence is a positive (or) Negative sentence.
+	- [Sentiment Analysis](https://github.com/dharmateja522/DS-Portfolio/tree/master/sentiment_analysis): A simple model to determine whether given sentence is a positive (or) Negative sentence.
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib, Flask, Pycharm_ 
 
