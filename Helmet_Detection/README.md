@@ -1,6 +1,6 @@
-# 🧠 Research and Application Project
+# 🧠 Helmet Detection Project
 
-Welcome to the **Research and Application** project repository! This repository is designed to showcase research-based applications and utilities, including client-facing applications and back-end utilities. The project is organized to be easily deployable and maintainable, with a focus on practical applications of research findings.
+Welcome to the **Helmet Detection** project repository! This repository is designed to showcase research-based applications and utilities, including client-facing applications and back-end utilities. The project is organized to be easily deployable and maintainable, with a focus on practical applications of research findings.
 
 ---
 
