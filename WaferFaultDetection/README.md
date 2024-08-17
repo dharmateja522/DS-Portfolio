@@ -66,14 +66,14 @@ Here's an overview of the key directories and files included in this portfolio:
 2. Install Dependencies:
 Ensure you have Python installed, then run:
 
-bash
-Copy code
+```bash
+
 pip install -r requirements.txt
 3. Run the Application:
 Use the main script to start training or prediction processes:
 
-bash
-Copy code
+```bash
+
 python main.py
 4. Monitor Application:
 The project includes a Flask monitoring dashboard that can be accessed to view real-time metrics and logs.
