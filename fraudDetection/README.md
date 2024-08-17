@@ -67,9 +67,31 @@ Here's a breakdown of the key directories and files in this repository:
    git clone https://github.com/yourusername/your-repository.git
    cd your-repository
 
-### 2. **Install Dependencies:**
-Ensure you have Python installed, then run:
+---
 
+2. Install Dependencies:
+Ensure you have Python installed, then run:
 ```bash
 pip install -r requirements.txt
+
+---
+3. Run the Application:
+Use the main script to start training or prediction processes:
+```bash
+python main.py
+
+---
+4. Monitor Application:
+The project includes a Flask monitoring dashboard that can be accessed to view real-time metrics and logs.
+
+---
+
+🛠️ Key Features
+Automated Data Validation: Ensures data integrity before processing.
+Comprehensive Preprocessing: Includes multiple steps to clean and prepare data for modeling.
+Model Selection: Automatically selects and saves the best model based on performance metrics.
+Batch Processing: Supports batch processing for both training and prediction.
+Logging & Monitoring: Robust logging and real-time monitoring to track the performance and status of the application.
+
+
 
